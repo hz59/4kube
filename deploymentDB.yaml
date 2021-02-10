@@ -40,3 +40,4 @@ spec:
                 configMapKeyRef:
                   name: mariadb
                   key: basededatos
+                  
